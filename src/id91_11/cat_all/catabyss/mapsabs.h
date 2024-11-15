@@ -52,7 +52,7 @@ typedef enum {
 		TILE_TESTER_2_MAP,       // 21
 		GOOD_MAP_TO_USE_MAP,     // 22
 		LASTMAP
-	     } mapnames;
+	     } catabyss_mapnames;
 
 //
 // TILEINFO offsets

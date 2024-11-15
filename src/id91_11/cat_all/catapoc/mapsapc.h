@@ -47,7 +47,7 @@ typedef enum {
 		EGYPT_1_MAP,             // 16
 		WIZARD_GARDEN_MAP,       // 17
 		LASTMAP
-	     } mapnames;
+	     } catapoc_mapnames;
 
 //
 // TILEINFO offsets

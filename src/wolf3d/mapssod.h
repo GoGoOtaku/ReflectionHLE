@@ -30,4 +30,4 @@ typedef enum {
 		SECRET_2_MAP,            // 19
 		ANGEL_OF_DEATH_MAP,      // 20
 		LASTMAP
-	     } mapnames;
+	     } wolf3dsod_mapnames;

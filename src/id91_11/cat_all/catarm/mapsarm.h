@@ -46,7 +46,7 @@ typedef enum {
 		FORTRESS_OF_NEM_MAP,     // 15
 		PASSAGE_TO_SURF_MAP,     // 16
 		LASTMAP
-	     } mapnames;
+	     } catarm_mapnames;
 
 //
 // TILEINFO offsets

@@ -70,4 +70,4 @@ typedef enum {
 		WOLF6_SECRET_MAP,        // 59
 		MAP4L10PATH_MAP,         // 60
 		LASTMAP
-	     } mapnames;
+	     } wolf3dwl6_mapnames;
